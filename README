@@ -1,0 +1,7 @@
+an Windows GUI application that helps to get a clip at a duration in a rectangular area of a video, and re-encode to another smaller video.
+
+an optical correlation function to follow the image given. (but not in use yet during video encoding.)
+
+written with Emgu CV in 2010. UI is poorly designed. Very buggy.
+
+Licensed after GPL as required by Emgu CV.
